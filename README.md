@@ -3,6 +3,8 @@
 > **Queen Sheba** is a fictional luxury e-commerce web application featuring **Queen AI**, an intentionally unshielded customer-support chatbot. It is built as a controlled target environment for testing and developing the **AXF (AI Prompt Firewall)** project.
 
 ---
+<img width="2548" height="1274" alt="image" src="https://github.com/user-attachments/assets/314b7897-60c5-4cb8-a3e9-9ad5ddef1c06" />
+
 
 ## 🛡️ Security Scope — Read First
 
